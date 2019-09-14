@@ -14,6 +14,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/opis/closure" />
@@ -100,7 +103,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1PUgH76knARK0LkH7lWqsGVkoPW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -148,7 +153,7 @@
       <workItem from="1568123301970" duration="585000" />
       <workItem from="1568200443844" duration="1910000" />
       <workItem from="1568266788876" duration="982000" />
-      <workItem from="1568475877668" duration="484000" />
+      <workItem from="1568475877668" duration="1269000" />
     </task>
     <servers />
   </component>
@@ -157,5 +162,16 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
